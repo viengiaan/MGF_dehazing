@@ -2,7 +2,7 @@
 
 Thuong Van Nguyen, An Gia Vien, and Chul Lee
 
-Official MATLAB Code for **"Real-time image and video dehazing based on multiscale guided filtering."**
+Official MATLAB Code for **"Real-time image and video dehazing based on multiscale guided filtering"**
 
 **We are in preparing to share codes soon!**
 
