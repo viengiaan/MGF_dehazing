@@ -15,15 +15,17 @@ Paper link: https://rdcu.be/cTCIV
 ### License
 See [MIT License](https://github.com/viengiaan/MGF_dehazing/blob/main/LICENSE)
 
+
+Citing Single-Shot HDR Imaging with MSCNN
 -------------
 If you find our work useful in your research, please consider citing:
 
-@ARTICLE{Vien_2021,
-  author={Thuong Van Nguyen and An Gia Vien and Chul Lee},
-  journal={Multimedia Tools and Applications}, 
-  title={Real-time image and video dehazing based on multiscale guided filtering}, 
-  year={2022},
-  volume={81},
-  number={25},
-  pages={36567-36584},
-}
+  @ARTICLE{TVNguyen_2022,
+    author={Thuong Van Nguyen and An Gia Vien and Chul Lee},
+    journal={Multimedia Tools and Applications}, 
+    title={Real-time image and video dehazing based on multiscale guided filtering}, 
+    year={2022},
+    volume={81},
+    number={25},
+    pages={36567-36584},
+  }
