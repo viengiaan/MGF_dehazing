@@ -16,7 +16,7 @@ Paper link: https://rdcu.be/cTCIV
 See [MIT License](https://github.com/viengiaan/MGF_dehazing/blob/main/LICENSE)
 
 
-Citing Single-Shot HDR Imaging with MSCNN
+Citing MGF_dehazing
 -------------
 If you find our work useful in your research, please consider citing:
 
