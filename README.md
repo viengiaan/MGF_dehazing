@@ -16,10 +16,9 @@ Paper link: https://rdcu.be/cTCIV
 See [MIT License](https://github.com/viengiaan/MGF_dehazing/blob/main/LICENSE)
 
 
-Citing MGF_dehazing
--------------
+# Citing MGF_dehazing
 If you find our work useful in your research, please consider citing:
-
+```
   @ARTICLE{TVNguyen_2022,
     author={Thuong Van Nguyen and An Gia Vien and Chul Lee},
     journal={Multimedia Tools and Applications}, 
@@ -29,3 +28,4 @@ If you find our work useful in your research, please consider citing:
     number={25},
     pages={36567-36584},
   }
+```
