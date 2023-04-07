@@ -6,17 +6,17 @@ Official MATLAB Code for **"Real-time image and video dehazing based on multisca
 
 Paper link: https://rdcu.be/cTCIV
 
-# Prerequisites:
+### Prerequisites:
 + Matlab 2020a
 
-# For testing:
+### For testing:
 + Running "main_test.m"
 
 ### License
 See [MIT License](https://github.com/viengiaan/MGF_dehazing/blob/main/LICENSE)
 
 
-# Citing MGF_dehazing
+### Citing MGF_dehazing
 If you find our work useful in your research, please consider citing:
 ```
   @ARTICLE{TVNguyen_2022,
