@@ -7,7 +7,7 @@ Official MATLAB Code for **"Real-time image and video dehazing based on multisca
 Paper link: https://rdcu.be/cTCIV
 
 ### New:
-+ [Unofficial Python Code link](https://github.com/serkansatak/MGF-Dehazing-Python) for MGF_dehazing - Thanks to [Serkan Şatak](https://github.com/serkansatak)
++ [Unofficial Python Code](https://github.com/serkansatak/MGF-Dehazing-Python) for MGF_dehazing - Thanks to [Serkan Şatak](https://github.com/serkansatak)
 
 ### Prerequisites:
 + Matlab 2020a
